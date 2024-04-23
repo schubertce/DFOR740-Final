@@ -67,7 +67,7 @@ Alternatively, I've included the prebuilt executable in the root of this github 
 Simply navigate to the directory where the exe is located and run the following command:
 - ```FinalProject <port1> <port2>...<log_file_location>```
 
-Example code:
+Example:
 ```
 C:\Dev> FinalProject 21 22 443 C:\Dev\log.txt
 ```
