@@ -68,5 +68,7 @@ Simply navigate to the directory where the exe is located and run the following 
 - ```FinalProject <port1> <port2>...<log_file_location>```
 
 Example code:
-```C:\Dev> FinalProject 21 22 443 C:\Dev\log.txt```
+```
+C:\Dev> FinalProject 21 22 443 C:\Dev\log.txt
+```
 
