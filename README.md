@@ -3,7 +3,7 @@
 
 ## Project Description
 
-This project simulates an FTP server using C++ and Boost.Asio to handle network operations. It is designed to mimic a simple FTP server environment, supporting basic commands like `LIST`, `PWD`, `CD`, `MKDIR`, `RETR`, and `STOR`. The server uses a simulated filesystem to safely emulate directory changes and file operations without accessing the actual filesystem. This makes it suitable for educational purposes, software testing, or network protocol training.
+This project simulates an FTP server using C++ and Boost.Asio to handle network operations. It is designed to mimic a simple FTP server environment, supporting basic commands like `LIST`, `PWD`, `CD`, `MKDIR`, `RETR`, and `STOR`. The server uses a simulated filesystem to safely emulate directory changes and file operations without accessing the actual filesystem. This makes it a good baseline for a honeypot tool that can be expanded upon and enriched to make it a more realistic emulation of an FTP server.
 
 This tool was developed as a final exam project for a graduate course (DFOR740-Advanced Offensive and Defensive Strategies) for the Digital Forensics program at George Mason University under the supervision of Professor Gordon Long.
 
